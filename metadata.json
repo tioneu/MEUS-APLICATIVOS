@@ -1,0 +1,5 @@
+{
+  "name": "OCR de Manuscrito com Fórmulas",
+  "description": "Um aplicativo web para transcrever texto manuscrito e fórmulas matemáticas a partir de imagens ou PDFs usando a API Gemini. O texto transcrito pode ser salvo como um arquivo .doc.",
+  "requestFramePermissions": []
+}
